@@ -1,0 +1,12 @@
+name: kinomedb
+title: kinomedb
+username: oche-george
+account: oche-george
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12184480
+bundleId:
+url: https://oche-george.shinyapps.io/kinomedb/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
